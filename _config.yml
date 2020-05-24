@@ -1,0 +1,8 @@
+title: WalrusTech3
+description: Play the latest tech mods for 1.7.10!
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-cayman
+
+gems:
+  - jekyll-mentions

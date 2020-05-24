@@ -1,0 +1,87 @@
+This ModPack comes with:
+
+- ArmorStatusHUD
+- DirectionHUD
+- StatusEffectHUD
+- Lucky Block
+- Advanced Machines
+- Advanced Repulsion Systems
+- Applied Energistics 2
+- Archemedes Ships
+- Aroma1997 Core
+- Aroma1997 Dimensional World
+- AutoFood
+- BetterChests
+- BetterStorage
+- Biomes O' Plenty
+- BuildCraft
+- ChickenChunks
+- CloudStorage
+- CodeChickenCore
+- CoFH Core
+- CoFH Lib
+- CompactSolars
+- ComputerCraft
+- Connected Glass
+- Dimentional Anchor
+- DungeonPack
+- EnderIO
+- EnderStorage
+- EnderZoo
+- ExtraCells
+- ExtraUtils
+- Flan's Mod
+- FlowerCraft
+- Forestry
+- GraviSuite
+- HayCraft
+- iChunUtil
+- immibis core
+- immibis microblocks
+- immibis peripherals
+- IndustrialCraft2
+- infinitubes
+- InventoryTweaks
+- IronChest
+- JourneyMap
+- LavaMonsters
+- LiquidXP
+- Mantle
+- MineFactoryReloaded
+- Morph
+- Natura
+- NetherOres
+- NotEnoughCodecs
+- NotEnoughItems
+- Obsidiplates
+- OpenBlocks
+- OpenEye
+- OpenMods Lib
+- Open Peripheral Addons
+- Open Peripheral Core
+- Open Peripheral Integration
+- Pam's DesertCraft
+- Pam's HarvestCraft
+- ProjectRed
+- QuarryPlus
+- RedLogic
+- Redstone Arsenal
+- Resonant Engine
+- SecretRoomsMod
+- Simple Recycling
+- SlabCraft
+- Special Mobs
+- Staircraft
+- Sync
+- Tinker's Construct
+- Thermal Expansion
+- Thermal Foundation
+- TinyCarts
+- Translocator
+- TubeStuff
+- Utility Mobs
+- Waila
+- Wireless Redstone ChickenBones Edition
+- YAMPST
+
+Enjoy!
